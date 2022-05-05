@@ -3,7 +3,7 @@ Slow down the network with ip (you should be connected to that network or wifi )
 
 <p align="center">
 <a href="https://github.com/rdxlr"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/rdxlr/fl00d-wifi"><img title="Github" src="https://img.shields.io/badge/fl00d-wifi-orange?style=for-the-badge"></a>
+<a href="https://github.com/rdxlr/fl00d-wifi"><img title="Github" src="https://img.shields.io/badge/fl00d_wifi-orange?style=for-the-badge"></a>
 </p>
 
 <p align="center">
