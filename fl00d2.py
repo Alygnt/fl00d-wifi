@@ -33,7 +33,7 @@ print "!!:      !!:     !!:!   !!! !!:!   !!! !!:      !!!"
 print ":!:      :!:     :!:    !:! :!:    !:! :!:     !:!"
 print ":::      ::::::: :::::::::: :::::::::: ;::    :::"
 print ":::      :::::::  ::::::::   ::::::::  :::::::::"+N
-print "["+B+""+R+"#"+N+"] "+B+""+R+"AndroSec1337 Cyber Team"+N+"   Fl00d 2.0 - "+B+""+R+"DedSecTL"+N
+print "["+B+""+R+"#"+N+"] "+B+""+R+" "+N+"   Fl00d 2.0 - "+B+""+R+"RDXLR"+N
 print
 print "#T4ke 7hem d0wn vroh - D0n7 g1ve up - Fl00d th3m"
 print "#H4ck 4ll 7he 7h1ng - F1ght f0r Ju5t1c3 - K1ll th3m"
