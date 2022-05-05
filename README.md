@@ -23,16 +23,16 @@ Slow down the network with ip (you should be connected to that network or wifi )
 </p>
 
 # USAGE
-`apt update && upgrade`
-`apt install git -y`
-`git clone https://github.com/RDXLR/fl00d-wifi`
-`cd fl00d`
-`python2 fl00d2.py`
+* `apt update && upgrade`
+* `apt install git -y`
+* `git clone https://github.com/RDXLR/fl00d-wifi`
+* `cd fl00d`
+* `python2 fl00d2.py`
 (That's it enjoy)
 
 ## THANKS TO
-```AndroSec1337 Cyber Team```
-```DedSecTL```
+***AndroSec1337 Cyber Team***
+***DedSecTL***
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
