@@ -19,6 +19,10 @@ Slow down the network with ip (you should be connected to that network or wifi )
 </p>
 
 <p align="center">
+<a href="https://github.com/rdxlr"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python_2-1f425f.svg?v=103"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/RDXLR/fl00d-wifi/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
 </p>
 
